@@ -3,7 +3,8 @@
 <a href="https://drive.google.com/file/d/1Rzuuwy3z_7mbvPzrsDDvqrA1a4DXJZxY/view?usp=sharing">CV</a>\
 <a href="https://drive.google.com/file/d/1SxoBiW1Q14qwjo3oRGQSuFnYBD8qucMg/view?usp=sharing">ISTQB certificate</a>\
 <a href="https://drive.google.com/file/d/1BvjLPcAtiyBaSv8O6cVyxyt1z75KaG_E/view?usp=sharing">Linux terminal certificate</a>\
-<a href="https://drive.google.com/file/d/1vzfIcIv4bImJc-__62DSlAlTlrQibRfc/view?usp=sharing">Git certificate</a>
+<a href="https://drive.google.com/file/d/1vzfIcIv4bImJc-__62DSlAlTlrQibRfc/view?usp=sharing">Git certificate</a>\
+<a href="https://drive.google.com/file/d/1MxQ1oqHGBLSN4Q83RpSGu890ddkVZ_hS/view?usp=sharing">Client-Server (Devtools) certificate</a>
 
 <!--
 **mashanevzorova/mashanevzorova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
