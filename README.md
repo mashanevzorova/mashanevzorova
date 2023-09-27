@@ -1,5 +1,6 @@
-### Hi there 👋\
-### I'm QA Engineer (manual)
+### Hi there 👋
+
+I'm QA Engineer (manual)
 
 <a href="https://drive.google.com/file/d/1Rzuuwy3z_7mbvPzrsDDvqrA1a4DXJZxY/view?usp=sharing">CV</a>\
 <a href="https://drive.google.com/file/d/1SxoBiW1Q14qwjo3oRGQSuFnYBD8qucMg/view?usp=sharing">ISTQB certificate</a>\
